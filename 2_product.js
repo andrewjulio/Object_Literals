@@ -16,7 +16,7 @@ If your program is stuck in an infinite loop, you can break out of the program b
 let product = {
     name: "Asus G531",
     inventory: 9,
-    unit_price: 1499
+    unit_price: 1499.99
 };
 console.log(product);
 
